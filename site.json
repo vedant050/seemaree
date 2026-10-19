@@ -1,0 +1,11 @@
+{
+  "title": "Konkaniheart",
+  "description": "Explore the rich culture, cuisine, and destinations of Konkan through an interactive, user-friendly website featuring carousels, detailed information, and seamless navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
